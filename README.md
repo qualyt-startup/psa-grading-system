@@ -1,4 +1,4 @@
-# PSA Grading System
+k# PSA Grading System
 
 An Angular-based grading system designed for PSA teams in various sports.
 
@@ -10,6 +10,6 @@ An Angular-based grading system designed for PSA teams in various sports.
 ## Installation
 Clone the repository:
 ```bash
-git clone $REPO_URL
+git clone git@github.com:qualyt-startup/psa-grading-system.git
 cd grading_app
 npm install
